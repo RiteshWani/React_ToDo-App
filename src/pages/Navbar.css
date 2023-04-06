@@ -33,7 +33,7 @@ body{
     color: #fff;
 }
 
-.navbar ul li a:hover{
+.navbar ul li:hover{
     color: #ccc;
     background-color: aliceblue;
 }
