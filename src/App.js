@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import ToDo from './pages/ToDo';
 import Navbar from './pages/Navbar';
+import "./pages/Navbar.css"
 
 function App() {
   return(

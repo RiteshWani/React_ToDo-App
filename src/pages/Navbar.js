@@ -6,8 +6,8 @@ import './Navbar.css';
 export default function Navbar() {
   return(
     <>
-    <nav className='navbar'>
-    <h3 className='logo'>My React App</h3>
+    <nav className='nav shadow bg-body-tertiary rounded'>
+    <a href='/' className='logo'>MyReactApp</a>
     <ul>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/about">About</Link></li>
